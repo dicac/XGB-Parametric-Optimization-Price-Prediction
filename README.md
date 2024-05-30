@@ -28,4 +28,4 @@
   <img src=https://github.com/dicac/XGB-Flight-Price-Predictionn/blob/main/Actual%20and%20predict%20value.png>
 </p>
 
-[**Check Notebook**](https://github.com/dicac/Random-Forest-price-avocado/blob/main/Random%20Forest%20Prediction.ipynb) 
+[**Check Notebook**](https://github.com/dicac/XGB-Parametric-Optimization-Price-Prediction/blob/main/XGBoost%20regressor%20hyperparameter%20tuning.ipynb) 
